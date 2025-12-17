@@ -1,0 +1,4 @@
+2025-11-25 14:34:14,107 - INFO - Dividing 30 by 5
+2025-11-25 14:34:14,108 - DEBUG - Result : 6.0
+2025-11-25 14:34:14,109 - INFO - Dividing 48 by 0
+2025-11-25 14:34:14,109 - ERROR - Tried to divide by zero

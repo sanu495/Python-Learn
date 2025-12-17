@@ -1,0 +1,3 @@
+welcome to the file handling
+You are awesome
+Adding a new line
